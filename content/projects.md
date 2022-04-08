@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: "ur mom"
+description: "Some stuff I have made."
 ---
 
-hullo my hehen
+Stuff will go hgere, like mcbb
