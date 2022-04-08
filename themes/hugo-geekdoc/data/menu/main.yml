@@ -8,5 +8,5 @@ main:
     icon: "gdoc_code"
     sub:
     - name: MCBlockBuilds
-      ref: "/projects/mcbb"
+      ref: "/projects/mcblockbuilds"
       icon: "gdoc_star"
