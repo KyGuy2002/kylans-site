@@ -3,6 +3,3 @@ main:
   - name: Home
     ref: "/"
     icon: "gdoc_home"
-  - name: Projects
-    ref: "/projects"
-    icon: "gdoc_code"
