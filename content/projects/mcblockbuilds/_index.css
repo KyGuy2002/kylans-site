@@ -14,9 +14,9 @@ body {
   /* set a gradient background with 3 colours https://coolors.co/ */
   background: linear-gradient(
     to bottom right,
-    rgba(32, 191, 85),
-    rgba(32, 164, 243),
-    rgba(11, 79, 108)
+    rgba(32, 10, 85),
+    rgba(100, 164, 243),
+    rgba(11, 79, 255)
   );
 }
 
