@@ -1,6 +1,11 @@
 ---
 header:
   - name: GitHub
-    ref: https://github.com/thegeeklab/hugo-geekdoc
+    ref: https://github.com/KyGuy2002/
     icon: gdoc_github
     external: true
+  - name: MCBlockBuilds
+    ref: https://mcblockbuilds.net/
+    icon: gdoc_link
+    external: true
+
