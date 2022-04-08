@@ -7,8 +7,8 @@
 /* Light mode theming */
 :root,
 :root[color-mode="light"] {
-  --header-background: #4ec58a;
-  --header-font-color: #ffffff;
+  --header-background: #9cb3ff;
+  --header-font-color: #000000;
 
   --body-background: #ffffff;
   --body-font-color: #343a40;
